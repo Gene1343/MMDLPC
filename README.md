@@ -11,7 +11,7 @@ Code and reproducibility materials for the MMDLPC study.
 | `04_Multimodal` | 多模态融合 |
 | `05_Molecular_Exploration` | 分子探究 |
 | `06_Human_AI_Study` | 人机读片实验 |
-| `08_Supplementary_Figures` | 补充图 |
-| `09_Supplementary_Tables` | 补充表，CSV 输出 |
+| `07_Supplementary_Figures` | 补充图 |
+| `08_Supplementary_Tables` | 补充表，CSV 输出 |
 
 `modeling_pipeline.py` 为公共建模模块。
